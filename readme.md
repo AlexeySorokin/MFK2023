@@ -8,6 +8,7 @@
 ### Литература
 
 * [Jurafsky, Martin Speech and language processing](https://web.stanford.edu/~jurafsky/slp3/)
+* [Гольдберг Нейросетевые методы в обработке естественного языка](http://lab314.brsu.by/kmp-lite/kmp2/2019/sum/NLP-BOOK/Goldberg_Neyrosetevye-metody-v-obrabotke-estestvennogo-yazyka.633658.pdf)
 
 ### Курсы в Интернете
 
