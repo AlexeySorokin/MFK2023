@@ -5,6 +5,11 @@
 
 [Ссылка на видеолекции](https://disk.yandex.ru/d/cATyTlA8-AKQcQ)
 [Код с занятия 19.04 (библиотека Transformers)](https://colab.research.google.com/drive/1ogRsLYXfDQioJrOZijNJ7l0RQ1Zg_KgB)
+
+## Задания к зачёту
+
+[Примеры вопросов](mfk2023tip.pdf)
+
 ## Полезные ссылки
 
 ### Литература
